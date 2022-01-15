@@ -8,6 +8,7 @@ For review
 
 ## Model For Safety
 
+### Spatial and Temporal
 * An accelerated hierarchical Bayesian crash frequency model with accommodation of spatiotemporal interactions. -- Haipeng Cui, [link](https://www.sciencedirect.com/science/article/pii/S000145752100049X) 
 
 
