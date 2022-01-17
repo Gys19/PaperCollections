@@ -19,4 +19,5 @@ For review
 # nice code review 
 
 * Nature Paper [Double Map Layer](https://github.com/snap-stanford/covid-mobility/blob/master/make_network_map.ipynb)
+* Nature Paper [Human Journeys](https://arxiv.org/ftp/arxiv/papers/2109/2109.00058.pdf)
 
