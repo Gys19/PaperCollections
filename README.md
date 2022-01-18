@@ -26,5 +26,5 @@ For review
 ### Spatial visualization (3D, interactive)
 * python package [Kepler.gl](https://docs.kepler.gl/docs/keplergl-jupyter)
 * Javascript [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial), see the second natrue paper.
-
+* R packages for making maps [R packages](https://geocompr.robinlovelace.net/adv-map.html)
 
