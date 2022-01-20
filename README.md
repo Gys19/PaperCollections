@@ -33,3 +33,7 @@ For review
 # Random Parameter model 
 * [Random Parameter Mixed Logit](https://engineering.purdue.edu/~flm/CE614/Random-parameter-overheads.pdf)
 * [R code](https://cran.r-project.org/web/packages/mlogit/vignettes/c5.mxl.html)
+
+
+# Bayesian model
+* [web](https://atlas.cancer.org.au/developing-a-cancer-atlas/Chapter_3.html#bayes-theorem)
