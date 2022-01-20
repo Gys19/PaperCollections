@@ -32,4 +32,4 @@ For review
 
 # Random Parameter model 
 * [Random Parameter Mixed Logit](https://engineering.purdue.edu/~flm/CE614/Random-parameter-overheads.pdf)
-
+* [R code](https://cran.r-project.org/web/packages/mlogit/vignettes/c5.mxl.html)
