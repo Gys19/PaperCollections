@@ -12,6 +12,7 @@ For review
 * An accelerated hierarchical Bayesian crash frequency model with accommodation of spatiotemporal interactions. -- Haipeng Cui, [link](https://www.sciencedirect.com/science/article/pii/S000145752100049X) 
 - R package: [spTimer](https://www.southampton.ac.uk/~sks/research/papers/spTimeRpaper.pdf)
 - R package: [R-INLA](https://www.r-inla.org/)
+- Spatial Temporal Kernel Density Estimation [(STKDE)](https://scholar.google.com/citations?user=ksMeWs4AAAAJ&hl=en&oi=sra)
 
 
 
