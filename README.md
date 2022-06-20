@@ -40,3 +40,6 @@ For review
 * [web](https://atlas.cancer.org.au/developing-a-cancer-atlas/Chapter_3.html#bayes-theorem)
 
 
+# Global raster Weather data 
+* [google colab example](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=zFus-HVU3-AS)
+* [gridmet weather data] (https://www.northwestknowledge.net/metdata/data/permanent/)
