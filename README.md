@@ -45,4 +45,4 @@ For review
 * [gridmet weather data](https://www.northwestknowledge.net/metdata/data/permanent/)
 
 # Causality analysis 
-* [blog] (https://medium.com/dataman-in-ai/identify-causality-by-fixed-effects-model-585554bd9735)
+* [blog](https://medium.com/dataman-in-ai/identify-causality-by-fixed-effects-model-585554bd9735)
