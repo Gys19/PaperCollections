@@ -43,3 +43,6 @@ For review
 # Global raster Weather data 
 * [google colab example](https://colab.research.google.com/drive/1B7gFBSr0eoZ5IbsA0lY8q3XL8n-3BOn4#scrollTo=zFus-HVU3-AS)
 * [gridmet weather data](https://www.northwestknowledge.net/metdata/data/permanent/)
+
+# Causality analysis 
+* [blog] (https://medium.com/dataman-in-ai/identify-causality-by-fixed-effects-model-585554bd9735)
