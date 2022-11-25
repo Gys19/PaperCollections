@@ -46,3 +46,6 @@ For review
 
 # Causality analysis 
 * [blog](https://medium.com/dataman-in-ai/identify-causality-by-fixed-effects-model-585554bd9735)
+
+# python cdict to custom the colormap
+* [blog] (https://towardsdatascience.com/simple-steps-to-create-custom-colormaps-in-python-f21482778aa2)
