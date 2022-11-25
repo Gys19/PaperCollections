@@ -14,6 +14,7 @@ For review
 - R package: [R-INLA](https://www.r-inla.org/)
 - Spatial Temporal Kernel Density Estimation [(STKDE)](https://scholar.google.com/citations?user=ksMeWs4AAAAJ&hl=en&oi=sra)
 - Geographically and temporally weighted regression [Bo Huang](https://www.tandfonline.com/doi/pdf/10.1080/13658810802672469?needAccess=true)
+- mobility change paper [Oak Ridge] (https://www.sciencedirect.com/science/article/pii/S0966692322000187#:~:text=The%20changes%20in%20daily%20temporal,%2C%20health%2C%20and%20transportation%20networks.)
 
 
 
