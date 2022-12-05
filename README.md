@@ -54,3 +54,4 @@ For review
 
 # 3D spatial visualization
 * [blog](https://pudding.cool/2018/12/3d-cities-story/)
+* [vis 2](https://www.statsmapsnpix.com/2016/10/the-global-human-settlement-layer.html)
