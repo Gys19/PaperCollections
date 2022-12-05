@@ -51,3 +51,6 @@ For review
 
 # python cdict to custom the colormap
 * [blog] (https://towardsdatascience.com/simple-steps-to-create-custom-colormaps-in-python-f21482778aa2)
+
+# 3D spatial visualization
+* [blog](https://pudding.cool/2018/12/3d-cities-story/)
