@@ -3,7 +3,9 @@ For review
 
 * Predicting neighborhoods’ socioeconomic attributes using restaurant data. --Lei Dong, [Link](https://www.pnas.org/content/pnas/116/31/15447.full.pdf)
 
+## Nature paper 
 
+* The misuse of colour in science communication [link](https://www.nature.com/articles/s41467-020-19160-7)
 
 
 ## Model For Safety
