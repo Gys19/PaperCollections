@@ -2,7 +2,7 @@
 For review
 
 * Predicting neighborhoods’ socioeconomic attributes using restaurant data. --Lei Dong, [Link](https://www.pnas.org/content/pnas/116/31/15447.full.pdf)
-* New REVIEW paper- From COVID-19 to future electrification: Assessingtraffic impacts on air quality by a machine-learning model [link](https://www.pnas.org/doi/epdf/10.1073/pnas.2102705118)
+* New **REVIEW** paper- From COVID-19 to future electrification: Assessing traffic impacts on air quality by a machine-learning model [link](https://www.pnas.org/doi/epdf/10.1073/pnas.2102705118)
 
 ## Nature paper 
 
